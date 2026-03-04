@@ -103,6 +103,11 @@ https://skills.sh/
 ```chrome-devtools-mcp``` lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis.
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 
+## LobeHub
+LobeHub is the ultimate space for work and life:
+to find, build, and collaborate with agent teammates that grow with you.
+We’re building the world’s largest human–agent co-evolving network.
+https://github.com/lobehub/lobehub
 
 
 
