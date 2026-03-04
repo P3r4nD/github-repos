@@ -109,5 +109,7 @@ to find, build, and collaborate with agent teammates that grow with you.
 We’re building the world’s largest human–agent co-evolving network.
 https://github.com/lobehub/lobehub
 
-
+## OpenClaw Skills
+A collection of utility skills for OpenClaw AI agents. Each folder contains a self-contained skill with a SKILL.md and supporting scripts.
+https://github.com/faahim/openclaw-skills
 
