@@ -99,9 +99,9 @@ Skills are reusable capabilities for AI agents. Install them with a single comma
 
 https://skills.sh/
 
-
-
-
+## Chrome DevTools MCP
+```chrome-devtools-mcp``` lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis.
+https://github.com/ChromeDevTools/chrome-devtools-mcp
 
 
 
