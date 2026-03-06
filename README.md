@@ -1,6 +1,12 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## OpenFang
+### The Agent Operating System
+OpenFang is an open-source Agent Operating System — not a chatbot framework, not a Python wrapper around an LLM, not a "multi-agent orchestrator." It is a full operating system for autonomous agents, built from scratch in Rust.
+
+https://github.com/RightNow-AI/openfang
+
 ## AgentLIB
 ### A type-safe, composable AI agent framework.
 
