@@ -1,6 +1,10 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## chartli
+CLI for rendering charts in terminals from numeric text data. chartli turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg.
+https://github.com/ahmadawais/chartli
+
 ## RuView
 See through walls with WiFi. No cameras. No wearables. No Internet. Just radio waves.
 
