@@ -1,8 +1,15 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## rtk
+### Rust Token Killer
+
+rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, zero dependencies, <10ms overhead.
+
+https://github.com/rtk-ai/rtk
 ## chartli
 CLI for rendering charts in terminals from numeric text data. chartli turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg.
+
 https://github.com/ahmadawais/chartli
 
 ## RuView
@@ -11,14 +18,17 @@ See through walls with WiFi. No cameras. No wearables. No Internet. Just radio w
 WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 By analyzing Channel State Information (CSI) disturbances caused by human movement, the system reconstructs body position, breathing rate, and heartbeat using physics-based signal processing and machine learning.
+
 https://github.com/ruvnet/RuView
 
 ## Nash
 Nash looks and behaves like a minimal Bash shell, but it never executes real system commands or touches the host filesystem directly. Everything runs inside a fully controlled in-memory Virtual Filesystem (VFS) with an optional host-directory overlay via explicit mount bindings.
+
 https://github.com/sammwyy/nash
 
 ## openclaw-kapso-whatsapp
 Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso — a unified API for WhatsApp Cloud. No ban risk. Stateless. Two Go binaries. Near-zero idle CPU.
+
 https://github.com/Enriquefft/openclaw-kapso-whatsapp
 
 ## OpenFang
