@@ -1,6 +1,23 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Ollama OCR
+A powerful OCR (Optical Character Recognition) package that uses state-of-the-art vision language models through Ollama to extract text from images and PDF. Available both as a Python package and a Streamlit web application.
+
+https://github.com/imanoop7/Ollama-OCR
+
+## OSINT Tools for the Dark Web
+Dark Web Search Engine Tools
+
+https://github.com/apurvsinghgautam/dark-web-osint-tools
+
+## plankton
+Write-time code quality enforcement for AI coding agents, built on Claude Code hooks.
+Code quality gate enforcement at write-time, using Claude Code hooks. The agent is blocked from proceeding until its output passes your checks — style, types, security, complexity — all enforced before commits and code review.
+
+
+https://github.com/alexfazio/plankton
+
 ## WAILS
 Build desktop applications using Go & Web Technologies.
 
