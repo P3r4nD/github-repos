@@ -1,6 +1,23 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## WAILS
+Build desktop applications using Go & Web Technologies.
+
+https://github.com/wailsapp/wails
+
+## OBLITERATUS
+OBLITERATUS is the most advanced open-source toolkit for understanding and removing refusal behaviors from large language models — and every single run makes it smarter. It implements abliteration — a family of techniques that identify and surgically remove the internal representations responsible for content refusal, without retraining or fine-tuning. The result: a model that responds to all prompts without artificial gatekeeping, while preserving its core language capabilities.
+
+https://github.com/elder-plinius/OBLITERATUS
+
+## PyG (PyTorch Geometric)
+PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.
+
+It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. In addition, it consists of easy-to-use mini-batch loaders for operating on many small and single giant graphs, multi GPU-support, torch.compile support, DataPipe support, a large number of common benchmark datasets (based on simple interfaces to create your own), and helpful transforms, both for learning on arbitrary graphs as well as on 3D meshes or point clouds.
+
+https://github.com/pyg-team/pytorch_geometric
+
 ## rtk
 ### Rust Token Killer
 
