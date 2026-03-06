@@ -1,5 +1,8 @@
 # github-repos
 Collection of interesting repositories in different disciplines
+## openclaw-kapso-whatsapp
+Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso — a unified API for WhatsApp Cloud. No ban risk. Stateless. Two Go binaries. Near-zero idle CPU.
+https://github.com/Enriquefft/openclaw-kapso-whatsapp
 
 ## OpenFang
 ### The Agent Operating System
