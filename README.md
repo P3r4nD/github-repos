@@ -85,10 +85,12 @@ https://github.com/AlexsJones/llmfit
 
 ## Web Quality Skills
 An (unofficial) comprehensive collection of Agent Skills for optimizing web projects based on Google Lighthouse guidelines and Core Web Vitals best practices.
+
 https://github.com/addyosmani/web-quality-skills
 
 ## Try Public APIs for free
 The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
+
 https://github.com/public-apis/public-apis
 
 ## Spark XR Start
@@ -99,34 +101,41 @@ https://github.com/61cygni/sparkxrstart
 ### 50 models · 1805–2024 · 8 sections · Interactive canvas demos
 
 From Gauss's Least Squares to Sora's video generation — every milestone explained with hands-on visualizations.
+
 https://github.com/EncyclopediaWorld/howaiworks
 https://encyclopediaworld.github.io/howaiworks/
 
 ## explainshell.com - match command-line arguments to their help text
 explainshell is a tool (with a web interface) capable of parsing man pages, extracting options and explaining a given command-line by matching each argument to the relevant help text in the man page.
+
 https://github.com/idank/explainshell
 https://explainshell.com/
 
 ## Windows 11 UEFI Boot Repair Script
 Rebuilds the Windows 11 UEFI bootloader when Automatic Repair fails and the SSD is healthy.
+
 https://github.com/blindma1den/windows-11-uefi-boot-repair/
 
 ## ShellCheck
 ### A shell script static analysis tool
 ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts:
+
 https://github.com/koalaman/shellcheck
 https://www.shellcheck.net/
 
 ## Build a Large Language Model (From Scratch)
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book Build a Large Language Model (From Scratch).
+
 https://github.com/rasbt/LLMs-from-scratch
 
 ## DevilDev
 DevilDev is a spec-driven architecture workspace that helps developers generate, inspect, and iterate on software architecture using natural-language specifications and existing repositories.
+
 https://github.com/lak7/devildev
 
 ## Think Python
 Think Python is an introduction to Python for people who have never programmed before – or for people who have tried and had a hard time.
+
 https://allendowney.github.io/ThinkPython/
 
 ## WebMCP
@@ -136,10 +145,12 @@ https://github.com/webmachinelearning/webmcp
 
 ## Web-iceprog
 Programming the ice40 FPGAs via Web, using the Web-USB api
+
 https://github.com/Obijuan/Web-iceprog
 
 ## LangExtract
 LangExtract is a Python library that uses LLMs to extract structured information from unstructured text documents based on user-defined instructions. It processes materials such as clinical notes or reports, identifying and organizing key details while ensuring the extracted data corresponds to the source text.
+
 https://github.com/google/langextract
 
 ## spinner.nvim
@@ -149,6 +160,7 @@ https://github.com/xieyonn/spinner.nvim
 
 ## LumenPnP
 The LumenPnP is an open source pick and place machine that reliably and accurately assembles electronic components onto circuit boards.
+
 https://github.com/opulo-inc/lumenpnp
 
 ## system-prompts-and-models-of-ai-tools
@@ -157,6 +169,7 @@ https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
 ## Reconya
 Network reconnaissance and asset discovery tool built with Go and HTMX.
+
 https://github.com/Dyneteq/reconya
 
 ## System Prompts Leaks
@@ -171,16 +184,19 @@ https://skills.sh/
 
 ## Chrome DevTools MCP
 ```chrome-devtools-mcp``` lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis.
+
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 
 ## LobeHub
 LobeHub is the ultimate space for work and life:
 to find, build, and collaborate with agent teammates that grow with you.
 We’re building the world’s largest human–agent co-evolving network.
+
 https://github.com/lobehub/lobehub
 
 ## OpenClaw Skills
 A collection of utility skills for OpenClaw AI agents. Each folder contains a self-contained skill with a SKILL.md and supporting scripts.
+
 https://github.com/faahim/openclaw-skills
 
 ## lazygit
@@ -200,6 +216,7 @@ https://github.com/vercel-labs/agent-skills/tree/main
 
 ## xyOps
 xyOps™ is a next-generation system for job scheduling, workflow automation, server monitoring, alerting, and incident response -- all combined into a single, cohesive platform. It's built for developers and operations teams who want to control their automation stack without surrendering data, freedom, or visibility. xyOps doesn't hide features behind paywalls or push telemetry back to anyone. It's open, extensible, and designed to run anywhere.
+
 https://github.com/pixlcore/xyops
 
 ## tailspin
@@ -218,16 +235,18 @@ https://github.com/stan-smith/FossFLOW
 
 ## LocalAI
 LocalAI is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that's compatible with OpenAI (Elevenlabs, Anthropic... ) API specifications for local AI inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU. It is created and maintained by Ettore Di Giacinto.
+
 https://github.com/mudler/LocalAI
 
 ## Photon
 Incredibly fast crawler designed for OSINT.
+
 https://github.com/s0md3v/Photon
 
 ## sim
 Build and deploy AI agent workflows in minutes.
-https://github.com/simstudioai/sim
 
+https://github.com/simstudioai/sim
 
 ## Claude-Mem
 Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, generating semantic summaries, and making them available to future sessions. This enables Claude to maintain continuity of knowledge about projects even after sessions end or reconnect.
