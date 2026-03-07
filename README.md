@@ -95,6 +95,7 @@ https://github.com/public-apis/public-apis
 
 ## Spark XR Start
 A WebXR starter template using three.js and Spark for web / VR experiences using gaussian splats as the background.
+
 https://github.com/61cygni/sparkxrstart
 
 ## How AI Works — An Interactive Visual History of AI/ML
