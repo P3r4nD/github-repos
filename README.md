@@ -1,6 +1,14 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Personal AI Infrastructure
+Only a tiny fraction of humanity's creative potential is activated on Earth.
+Most people don't believe they have valuable contributions to make. They think there are "special" people—and they aren't one of them. They've never asked who they are, what they're about, and have never articulated or written it down. This makes them catastrophically vulnerable to AI displacement. Without activation, there is no high-agency.
+
+So our goal with PAI is to activate people.
+
+https://github.com/danielmiessler/Personal_AI_Infrastructure
+
 ## Ollama OCR
 A powerful OCR (Optical Character Recognition) package that uses state-of-the-art vision language models through Ollama to extract text from images and PDF. Available both as a Python package and a Streamlit web application.
 
