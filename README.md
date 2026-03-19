@@ -1,6 +1,31 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Ground Station
+Ground Station is a full-featured, open-source software solution for satellite tracking and radio communication. Designed for amateur radio operators, satellite enthusiasts, and researchers, it provides a comprehensive and easy-to-use platform for monitoring spacecraft, controlling radio equipment, and receiving live radio signals from satellites. This project was built with the help of Claude Code and Codex.
+
+https://github.com/sgoudelis/ground-station
+
+## mapcn
+Free & open-source, ready-to-use, customizable map components for React.
+
+https://github.com/AnmolSaini16/mapcn
+
+## Flipper One Mechanics
+This repository is part of the Flipper One Mechanics sub-project and contains issue tracking, 3D model files of the Flipper One enclosure and expansion modules.
+
+https://github.com/flipperdevices/flipperone-mechanics
+
+## P2P RTC Tunnel Proxy
+A modular P2P proxy that uses WebRTC (aiortc) to create encrypted tunnels between peers behind NAT. Data is transported as custom RTP payloads over SRTP, making traffic indistinguishable from a video call to deep packet inspectors (this is critical for this particular project).
+> [!CAUTION]
+> **⚠️ DANGER:** this tool is intentionally weak. Do not use it in the real world for anything than can bring risk to you. ***PLEASE, DO TAKE CARE WITH THIS TOOL***.
+```diff
+- DANGER: this tool is intentionally weak. Do not use it in the real world for anything than can bring risk to you. PLEASE, DO TAKE CARE WITH THIS TOOL.
+```
+
+https://github.com/cryptografree/p2p-rtc-tunnel
+
 ## Personal AI Infrastructure
 Only a tiny fraction of humanity's creative potential is activated on Earth.
 Most people don't believe they have valuable contributions to make. They think there are "special" people—and they aren't one of them. They've never asked who they are, what they're about, and have never articulated or written it down. This makes them catastrophically vulnerable to AI displacement. Without activation, there is no high-agency.
