@@ -1,6 +1,17 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## NUI
+### Free and Open Source NATS management GUI.
+Easily manage your NATS core, streams and buckets, both from Desktop App or Web interface!
+
+https://github.com/nats-nui/nui
+
+## Project N.O.M.A.D.
+Project N.O.M.A.D. is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+
+https://github.com/Crosstalk-Solutions/project-nomad
+
 ## Ground Station
 Ground Station is a full-featured, open-source software solution for satellite tracking and radio communication. Designed for amateur radio operators, satellite enthusiasts, and researchers, it provides a comprehensive and easy-to-use platform for monitoring spacecraft, controlling radio equipment, and receiving live radio signals from satellites. This project was built with the help of Claude Code and Codex.
 
