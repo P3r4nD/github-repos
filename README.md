@@ -1,6 +1,21 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## rstunnel
+A ngrok-style secure tunnel server written in Rust. Expose local services through a public server over encrypted WebSocket connections with TLS termination, HTTP/TCP proxying, a live dashboard, Prometheus metrics, and audit logging.
+
+https://github.com/joaoh82/rustunnel
+
+## Open WebUI
+Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.
+
+https://github.com/open-webui/open-webui
+
+## Malwoverview
+Malwoverview.py is a first response tool for threat hunting, which performs an initial and quick triage of malware samples, URLs, IP addresses, domains, malware families, IOCs and hashes. Additionally, Malwoverview is able to get dynamic and static behavior reports, submit and download samples from several endpoints. In few words, it works as a client to main existing sandboxes.
+
+https://github.com/alexandreborges/malwoverview
+
 ## NUI
 ### Free and Open Source NATS management GUI.
 Easily manage your NATS core, streams and buckets, both from Desktop App or Web interface!
