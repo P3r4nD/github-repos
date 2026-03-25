@@ -1,6 +1,11 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## EurekaClaw
+EurekaClaw is a multi-agent AI research assistant that goes from a question to a publishable result — autonomously. It crawls the literature, generates and stress-tests hypotheses, runs experiments, and writes up findings, all from your terminal or browser UI.
+
+https://github.com/EurekaClaw/EurekaClaw
+
 ## Google LangExtract
 LangExtract is a Python library that uses LLMs to extract structured information from unstructured text documents based on user-defined instructions. It processes materials such as clinical notes or reports, identifying and organizing key details while ensuring the extracted data corresponds to the source text.
 
