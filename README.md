@@ -1,6 +1,11 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Google LangExtract
+LangExtract is a Python library that uses LLMs to extract structured information from unstructured text documents based on user-defined instructions. It processes materials such as clinical notes or reports, identifying and organizing key details while ensuring the extracted data corresponds to the source text.
+
+https://github.com/google/langextract
+
 ## MoneyPrinter V2
 An Application that automates the process of making money online. MPV2 (MoneyPrinter Version 2) is, as the name suggests, the second version of the MoneyPrinter project. It is a complete rewrite of the original project, with a focus on a wider range of features and a more modular architecture.
 
