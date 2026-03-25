@@ -1,6 +1,11 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## MoneyPrinter V2
+An Application that automates the process of making money online. MPV2 (MoneyPrinter Version 2) is, as the name suggests, the second version of the MoneyPrinter project. It is a complete rewrite of the original project, with a focus on a wider range of features and a more modular architecture.
+
+https://github.com/FujiwaraChoki/MoneyPrinterV2/
+
 ## rstunnel
 A ngrok-style secure tunnel server written in Rust. Expose local services through a public server over encrypted WebSocket connections with TLS termination, HTTP/TCP proxying, a live dashboard, Prometheus metrics, and audit logging.
 
