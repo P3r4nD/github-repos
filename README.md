@@ -1,6 +1,39 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Unit
+### Next Generation Visual Programming System
+Unit is a General Purpose Visual Programming Language and Environment built with a primary focus on Developer Experience.
+
+It is heavily inspired by Live, Data Flow, Reactive, Functional and Object Oriented Programming paradigms. Formally, units are Multi Input Multi Output (MIMO) Finite State Machines (FSM). A program in Unit is represented as a Graph.
+
+The Unit Programming Language was developed in close junction to the Unit Programming Environment, which is a Web application built for easy composition of new units. The environment is designed to feel visual and kinesthetic, giving the perception of Direct Manipulation of Live Virtual Objects. The Unit Programming experience is minimalistic, ergonomic, mobile, and can be performed through a variety of input devices, and editing can be partially expressed through Drawing, Gesture and Voice.
+
+Unit is similar in concept to the Unix shell. For a seasoned programmer, Unit should feel like the 2D evolution of the Command Line Interface (CLI) where units' (commands) inputs and outputs (stdin/stdout/stderr) can be piped together into a graph (script). Unit can be thought of as a re-exploration of the Unix Philosophy in the context of modern Software Engineering and Web Development.
+
+The Unit system is set to grow into a simple and approachable Web Operating System, which is sandboxed by default, enabling a new era of Software Sharing and Collaboration, unifying the currently fragmented Computer Experience.
+https://github.com/samuelmtimbo/unit
+
+## CANOPI
+Official golang implementation of the Canopy Network Protocol
+Create mesh security providers for any network with this protocol
+
+https://github.com/canopy-network/canopy
+
+## Scrapling
+Scrapling is an adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl.
+
+Its parser learns from website changes and automatically relocates your elements when pages update. Its fetchers bypass anti-bot systems like Cloudflare Turnstile out of the box. And its spider framework lets you scale up to concurrent, multi-session crawls with pause/resume and automatic proxy rotation — all in a few lines of Python. One library, zero compromises.
+
+Blazing fast crawls with real-time stats and streaming. Built by Web Scrapers for Web Scrapers and regular users, there's something for everyone.
+
+https://github.com/D4Vinci/Scrapling
+
+## PentAGI
+Penetration testing Artificial General Intelligence
+
+https://github.com/vxcontrol/pentagi
+
 ## EurekaClaw
 EurekaClaw is a multi-agent AI research assistant that goes from a question to a publishable result — autonomously. It crawls the literature, generates and stress-tests hypotheses, runs experiments, and writes up findings, all from your terminal or browser UI.
 
