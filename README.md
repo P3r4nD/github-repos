@@ -1,6 +1,16 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Ghostling - Minimal libghostty Terminal
+Ghostling is a demo project meant to highlight a minimum functional terminal built on the libghostty C API in a single C file.
+
+https://github.com/ghostty-org/ghostling
+
+## VibeVoice: Open-Source Frontier Voice AI
+VibeVoice is a family of open-source frontier voice AI models that includes both Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) models.
+
+https://github.com/microsoft/VibeVoice
+
 ## Unit
 ### Next Generation Visual Programming System
 Unit is a General Purpose Visual Programming Language and Environment built with a primary focus on Developer Experience.
