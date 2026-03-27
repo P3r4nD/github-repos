@@ -1,6 +1,11 @@
 # github-repos
 Collection of interesting repositories in different disciplines
 
+## Deep Eye
+An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and professional reporting.
+
+https://github.com/zakirkun/deep-eye
+
 ## Ghostling - Minimal libghostty Terminal
 Ghostling is a demo project meant to highlight a minimum functional terminal built on the libghostty C API in a single C file.
 
